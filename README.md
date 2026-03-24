@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Ray Laciste
 
-<!--
-**RayLaciste/RayLaciste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate (CSU Sacramento)  
+💻 Software Engineer focused on full-stack development and real-world systems  
+🚀 Passionate about building scalable applications and solving practical problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:**  
+Python, JavaScript, Java, C/C++, SQL  
+
+**Frontend:**  
+React, Next.js, Tailwind  
+
+**Backend:**  
+Node.js, Express, REST APIs  
+
+**Tools & Systems:**  
+MongoDB, Docker, Git, AWS (S3), Stripe API  
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 Collaborative Editor (Notion-style)
+- Real-time document editing with low-latency sync  
+- Nested documents, drag-and-drop blocks, authentication  
+- Built with Next.js, Convex, Tailwind  
+
+👉 *Focus: real-time systems, frontend architecture*
+
+---
+
+### 🃏 TCG OCR (Computer Vision)
+- Real-time card detection + OCR pipeline  
+- Built with OpenCV + Tesseract  
+- Explores challenges of OCR in noisy environments  
+
+👉 *Focus: computer vision, preprocessing, ML-adjacent systems*
+
+---
+
+### 🛒 Full-Stack E-Commerce Platform
+- Built MERN app with Stripe payments + shipping integration  
+- Replaced Shopify, reducing costs by 20%  
+- Implemented automated testing (Mocha, Selenium)  
+
+👉 *Focus: production systems, backend + integrations*
+
+---
+
+## 📈 What I'm Looking For
+
+- Full-stack or backend engineering roles  
+- Opportunities to build real-world, scalable systems  
+
+---
+
+## 📫 Contact
+
+- Email: raylaciste@yahoo.com  
+- LinkedIn: https://www.linkedin.com/in/rayangelo/
