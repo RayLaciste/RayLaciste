@@ -2,14 +2,13 @@
 
 🎓 Computer Science graduate (CSU Sacramento)  
 💻 Software Engineer focused on full-stack development and real-world systems  
-🚀 Passionate about building scalable applications and solving practical problems  
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:**  
-Python, JavaScript, Java, C/C++, SQL  
+Python, JavaScript, Typescript, Java, C/C++, SQL  
 
 **Frontend:**  
 React, Next.js, Tailwind  
@@ -18,47 +17,49 @@ React, Next.js, Tailwind
 Node.js, Express, REST APIs  
 
 **Tools & Systems:**  
-MongoDB, Docker, Git, AWS (S3), Stripe API  
+MongoDB, Docker, Git, AWS (S3), Jest, Mocha
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📝 Collaborative Editor (Notion-style)
-- Real-time document editing with low-latency sync  
-- Nested documents, drag-and-drop blocks, authentication  
-- Built with Next.js, Convex, Tailwind  
-
-👉 *Focus: real-time systems, frontend architecture*
-
----
-
-### 🃏 TCG OCR (Computer Vision)
-- Real-time card detection + OCR pipeline  
-- Built with OpenCV + Tesseract  
-- Explores challenges of OCR in noisy environments  
-
-👉 *Focus: computer vision, preprocessing, ML-adjacent systems*
+### 📝 Note-ish (Notion-style)
+- Developed a real-time synchronized database using Convex for minimal-latency collaborative editing, featuring
+nested documents, search functionality, file operations (upload/delete/replace), and document publishing.
+- Implemented Notion-style block editing with drag-and-drop organization and rich formatting capabilities giving end-users an intuitive experience
+- Integrated authentication with Clerk, soft-delete document recovery, and a responsive mobile/desktop interface.
 
 ---
 
-### 🛒 Full-Stack E-Commerce Platform
-- Built MERN app with Stripe payments + shipping integration  
-- Replaced Shopify, reducing costs by 20%  
-- Implemented automated testing (Mocha, Selenium)  
+### 🃏 OpenCV Card Recognizer (Computer Vision)
+- Built a real-time card detection system processing live webcam footage, using OpenCV's contour detection to
+locate cards in frame and Tesseract OCR to extract text from the card.
+- Engineered image preprocessing pipeline with adaptive thresholding, brightness/contrast enhancement, and noise reduction to improve OCR accuracy by 60%.
+- Used AI-assisted development tools to accelerate iteration cycles and troubleshoot complex computer vision
+challenges, while deepening understanding of machine learning concepts.
 
-👉 *Focus: production systems, backend + integrations*
+---
+
+### 🛒 The Studio 26 E-Commerce Website
+- Built and shipped a full-stack MERN (MongoDB, Express.js, React, Node.js) web application from prototype to
+production with a centralized management system to reduce complexity in the company's internal tooling.
+- Developed and integrated Restful API layer connecting Stripe (payments) and Shippo (shipping), replacing
+Shopify and cutting operational costs by 20%.
+- Using MongoDB and Amazon S3, implemented a scalable storage solution to manage product information to
+improve user experience and cut running costs.
+- Developed and executed automated test suites using Mocha and Selenium to validate payment processing and
+database operations to ensure transaction reliability, increasing code coverage by 40%.
 
 ---
 
 ## 📈 What I'm Looking For
 
-- Full-stack or backend engineering roles  
+- Full-stack or backend engineering roles
 - Opportunities to build real-world, scalable systems  
 
 ---
 
 ## 📫 Contact
 
-- Email: raylaciste@yahoo.com  
+- Email: raylaciste@proton.me  
 - LinkedIn: https://www.linkedin.com/in/rayangelo/
