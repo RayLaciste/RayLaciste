@@ -52,13 +52,6 @@ database operations to ensure transaction reliability, increasing code coverage 
 
 ---
 
-## 📈 What I'm Looking For
-
-- Full-stack or backend engineering roles
-- Opportunities to build real-world, scalable systems  
-
----
-
 ## 📫 Contact
 
 - Email: raylaciste@proton.me  
