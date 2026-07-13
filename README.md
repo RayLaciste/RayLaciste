@@ -5,9 +5,9 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, Java, C/C++, Rust, SQL
+**Languages:** Python, JavaScript, TypeScript, Java, C/C++, Go, Rust
 
 **Frontend:** React, Next.js, Tailwind
 
